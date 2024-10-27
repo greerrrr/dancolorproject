@@ -11,6 +11,8 @@ value: preference maximin:
 
 todo:
 - verify uniqueness of each ordering
+- tidy code, generally
+- use nicer debugging system
 - perhaps, find a way to directly construct an ideal list, or move iteratively through assignment space?
 - does *weighting* preferences matter?
 - what are the colors?
