@@ -10,7 +10,7 @@ value: preference maximin:
 - return max(assignment.score)
 
 todo:
-- convert pseudocode to python
+- verify uniqueness of each ordering
 - perhaps, find a way to directly construct an ideal list, or move iteratively through assignment space?
 - does *weighting* preferences matter?
 - what are the colors?
